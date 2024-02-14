@@ -11,7 +11,7 @@ def my_func(func):
 
 def some_func(title):
     print(f'{title}')
-    print('fff')
+    print('some')
 
 
 some_func = my_func(some_func)

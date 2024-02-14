@@ -4,7 +4,7 @@ def my_func(func):
     def wrapper(*args, **kwargs):
         print('start')
         func(*args, **kwargs)
-        print('end')
+        print('end 40')
 
     return wrapper
 

@@ -15,3 +15,4 @@ def some_func(title):
 
 some_func = my_func(some_func)
 some_func(title='test')
+print('test)
